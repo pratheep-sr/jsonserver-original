@@ -28,7 +28,7 @@
       "id": "7",
       "title": "Roasted Cashew Chilli (Jar)",
       "price": "₹75.00",
-      "description": "Crunchy roasted cashews coated with chilli seasoning for a spicy, flavorful bite.",
+      "description": "Crunchy roasted cashews coated with chilli and spices.",
       "category": "jewelery",
       "image": "https://eccommers.onrender.com/images/3.jpg",
       "rating": {
@@ -112,7 +112,7 @@
       "id": "14",
       "title": "Tirunelveli Ghee Halwa ",
       "price": "₹190.00",
-      "description": "Rich, glossy halwa made with pure ghee, wheat milk, and sugar for an authentic taste.",
+      "description": "Rich halwa made with ghee, milk, and sugar for authentic taste.",
       "category": "electronics",
       "image": "https://eccommers.onrender.com/images/10.jpg",
       "rating": {
@@ -124,7 +124,7 @@
       "id": "15",
       "title": "Tirunelveli Muscoth Halwa",
       "price": "₹100.00",
-      "description": "Soft, chewy halwa made with wheat milk, sugar, and ghee for a rich, traditional flavor.",
+      "description": "Soft halwa made with milk, sugar, and ghee for rich flavor.",
       "image": "https://eccommers.onrender.com/images/11.jpg",
       "rating": {
         "rate": 2.6,
